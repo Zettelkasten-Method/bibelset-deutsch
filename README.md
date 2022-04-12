@@ -5,7 +5,9 @@ Willkommen in der Readme-Datei für das Bibelset.
 Das Bibelset soll Ihnen erleichtern, die Bibel mittels *The Archive* und der Zettelkastenmethode zu studieren. Das Bibelset enthält zu diesem Zeitpunkt die folgenden Werkzeuge:
 
 1. Die Bibel in Büchern und Kapiteln. Dabei haben wir uns aus zwei Gründen dagegen entschieden, die Bibeltexte selbst in die Dateien zu kopieren. Erstens sind die Texte selbst urheberrechtlich geschützt und zweitens dienen diese Dateien nicht der Lektüre der Bibel selbst, sondern der Strukturierung Ihrer Notizen, die Sie angefertigt haben oder anfertigen.
-2. Weitere Werkzeuge sind in Planung.
+2. Die Bibel in einer Datei, mit allen Büchern als Abschnitte statt als eigene Strukturzettel.
+
+Weitere Werkzeuge sind in Planung.
 
 Meine Empfehlung an Sie ist, Ihren Zettelkasten wie folgt auf das Studium der Bibel vorzubereiten:
 
