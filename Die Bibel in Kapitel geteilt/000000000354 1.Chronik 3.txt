@@ -1,0 +1,4 @@
+# 000000000354 1.Chronik 3
+
+[[000000000351]] Das erste Buch der Chronik
+[[000000000353]] 1.Chronik 2 <-- | --> 1.Chronik 4 [[000000000355]]

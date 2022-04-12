@@ -1,0 +1,4 @@
+# 000000000683 Prediger 3
+
+[[000000000680]] Der Prediger Salomo
+[[000000000682]] Prediger 2 <-- | --> Prediger 4 [[000000000684]]

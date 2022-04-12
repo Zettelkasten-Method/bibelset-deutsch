@@ -1,0 +1,4 @@
+# 000000001001 Markus 3
+
+[[000000000998]] Markus berichtet von Jesus
+[[000000001000]] Markus 2 <-- | --> Markus 4 [[000000001002]]

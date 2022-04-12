@@ -1,0 +1,4 @@
+# 000000001222 1.Johannes 1
+
+[[000000001221]] Der erste Brief des Johannes
+[[000000001220]] 2.Petrus 3 <-- | --> 1.Johannes 2 [[000000001223]]

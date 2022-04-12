@@ -1,0 +1,4 @@
+# 000000000228 Richter 10
+
+[[000000000218]] Das Buch über die Richter
+[[000000000227]] Richter 9 <-- | --> Richter 11 [[000000000229]]
